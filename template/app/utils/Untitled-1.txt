@@ -1,0 +1,3 @@
+wp search-replace 'http://greentec-capital.com' 'localhost/greentec-wp.com' --skip-columns=guid
+wp search-replace 'http://greentec-wp.com' 'http://greentec-wp' --skip-columns=guid
+Warning: filemtime(): stat failed for 
